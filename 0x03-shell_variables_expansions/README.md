@@ -1,1 +1,1 @@
-In this project is about Shell, init files, variables and expansions
+In this project is about init files, variables and expansions
